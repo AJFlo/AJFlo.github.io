@@ -1,5 +1,4 @@
-# AJFlo.github.io
-<!DOCTYPE html>
+
 <html lang="en">
 <div>
 <h2>Chatbot:</h2>
@@ -12,7 +11,5 @@
   $.getScript("https://combinatronics.com/username/repo/master/src/file.js", function () {
     /* do something when loaded */
   });
-</script>
-></script>
 
   </html>
